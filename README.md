@@ -1,1 +1,2 @@
 # Churn_Data_Analysis
+The task requires executing an end-to-end customer churn classification pipeline for bank marketing optimization. Key analytical steps include preprocessing bank customer data by removing non-predictive variables, fitting a binary classification algorithm, evaluating train-versus-test generalization performance, and assessing diagnostic accuracy using ROC curves and AUC scores.
